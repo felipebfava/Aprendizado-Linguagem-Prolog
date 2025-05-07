@@ -1,0 +1,1 @@
+# Aprendizado-Linguagem-Prolog
